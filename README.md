@@ -3,7 +3,7 @@
 🎓Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 🔭Además de mis estudios:
-- desarrollo proyectos personales para mejorar mis habilidades en programación y desarrollo de software\
+- desarrollo proyectos personales para mejorar mis habilidades en programación y desarrollo de software
 - cursando una formación de Python en IBM SkillsBuild
 <br>
 
