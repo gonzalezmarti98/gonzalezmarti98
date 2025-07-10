@@ -2,7 +2,7 @@
 🎓Soy estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 🔭Además de mis estudios:\
-    - desarrollo proyectos personales para mejorar mis habilidades en programación y desarrollo de software.
+    - desarrollo proyectos personales para mejorar mis habilidades en programación y desarrollo de software\
     - cursando una formación de Python en IBM SkillsBuild
 
 🚀Aunque aún no cuento con experiencia profesional en el sector, lo compenso con una gran motivación por aprender, superarme cada día y adquirir nuevos conocimientos tanto por cuenta propia como en entornos colaborativos. Me esfuerzo por aplicar lo aprendido en proyectos reales que además me reten y me hagan crecer como desarrollador.
@@ -14,8 +14,8 @@
 >👯Toda buena crítica y recomendación me será de gran ayuda para crecer como desarrollador
 
 Información de contacto:\
-📫martimartigonzalez@gmail.com
-📘Perfil de [Linkedin](https://www.linkedin.com/in/mart%C3%AD-gonz%C3%A1lez-mu%C3%B1oz-ab8332137/)
+📫martimartigonzalez@gmail.com\
+📘Mi [Linkedin](https://www.linkedin.com/in/mart%C3%AD-gonz%C3%A1lez-mu%C3%B1oz-ab8332137/)
   
 
 <!--
